@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="unbescape-1.1.6.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/lib/unbescape-1.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/javassist-3.25.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/attoparser-2.0.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TestThymeleaf/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TestThymeleaf" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="thymeleaf-3.0.11.RELEASE" />
+          <element id="library" level="project" name="slf4j-api-1.8.0-beta4" />
+          <element id="library" level="project" name="slf4j-simple-1.8.0-beta4" />
+          <element id="library" level="project" name="ognl-3.2.10" />
+          <element id="library" level="project" name="unbescape-1.1.6.RELEASE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
